@@ -20,4 +20,4 @@ dev---doing not commit
 remote dev
 
 
-remote dev-pull
+remote master-dev-pull
